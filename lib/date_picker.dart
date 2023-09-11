@@ -171,7 +171,7 @@ class DatePicker {
         style: TextStyle(color: textColor),
       ),
       contentPadding: EdgeInsets.symmetric(vertical: 0, horizontal: 14),
-      backgroundColor: backgroundColor,
+      //backgroundColor: backgroundColor,
       content: Container(
         width: 300,
         child: DatePickerWidget(
